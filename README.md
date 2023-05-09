@@ -15,7 +15,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience in Front-End development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-<!-- - 👨‍💻 Check out my portfolio at https://abdelmalek.net to see some of the projects I've worked on. -->
+- 👨‍💻 Check out my portfolio at https://abdelmalek.net to see some of the projects I've worked on.
 
 
 ### Connect with Me :
